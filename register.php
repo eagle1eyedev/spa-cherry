@@ -41,7 +41,7 @@
 
             <a class="login-link" href="login.php">Вече имате профил? Влезте</a>
 
-            <?php
+            /* <?php
             #include_once 'inc/db.php';
             include_once 'conf/settings.php';
 
@@ -76,7 +76,7 @@
                     }
                 }
             }
-            ?>
+            ?> */
         </div>
     </div>
 

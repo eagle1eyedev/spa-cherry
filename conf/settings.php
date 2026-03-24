@@ -1,0 +1,3 @@
+<?php
+	$salt = "#&JsialdSlkws119";
+?>

@@ -42,7 +42,7 @@
             <a class="login-link" href="login.php">Вече имате профил? Влезте</a>
 
             <?php
-            include_once 'inc/db.php';
+            #include_once 'inc/db.php';
             include_once 'conf/settings.php';
 
             if(isset($_POST['submit'])) {
